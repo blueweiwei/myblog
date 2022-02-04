@@ -107,3 +107,26 @@ F:.
 ©¸©¤view
         index.html
         
+
+{
+  "picBed": {
+    "current": "gitee",
+    "gitee": {
+      "repo": "pangzhaowei/img-bed",
+      "branch": "master",
+      "token": "044cf87ab5ac1c654621c5d5c0b714da",
+      "path": "img/",
+      "customPath": "default",
+      "customUrl": "https://gitee.com/IT-cute/Picbed/raw/master/"
+    },
+    "uploader": "gitee",
+    "transformer": "path"
+  },
+  "picgoPlugins": {
+    "picgo-plugin-gitee-uploader": true,
+    "picgo-plugin-smms-user": true
+  },
+  "picgo-plugin-gitee-uploader": {
+    "lastSync": "2022-02-04 05:21:02"
+  }
+}
